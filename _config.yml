@@ -23,7 +23,7 @@ email: albus.blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog to share my observations on life, the human condition and other current interests.
 baseurl: "blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.marioalbus.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: albusmario
 instagram_username: hello
 
